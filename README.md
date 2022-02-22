@@ -1,6 +1,8 @@
 # Melody generation
 
-[MusicAI](https://github.com/LiorSherman/236502) is a melody generation project using RNN LSTM and GAN models.
+[MusicAI](https://github.com/Exital/GeneratingMelodies.git) is a melody generation project using RNN LSTM and GAN models.
+
+[Project report](https://github.com/Exital/GeneratingMelodies/blob/master/docs/Generating%20Melodies.pdf) - click here for a full report.
 
 ## Datasets
 
@@ -9,14 +11,14 @@
 
 ## Sample results
 ### RNN LSTM model
-- [sample 1](https://github.com/LiorSherman/236502/tree/master/best_results/rnn_piano_1.mp3)
-- [sample 2](https://github.com/LiorSherman/236502/tree/master/best_results/rnn_piano_2.mp3)
-- [sample 3](https://github.com/LiorSherman/236502/tree/master/best_results/rnn_multi.mp3)
+- [sample 1](https://github.com/Exital/GeneratingMelodies/tree/master/best_results/rnn_piano_1.mp3)
+- [sample 2](https://github.com/Exital/GeneratingMelodies/tree/master/best_results/rnn_piano_2.mp3)
+- [sample 3](https://github.com/Exital/GeneratingMelodies/tree/master/best_results/rnn_multi.mp3)
 
 ### GAN model
-- [sample 1](https://github.com/LiorSherman/236502/tree/master/best_results/gan_1.mp3)
-- [sample 2](https://github.com/LiorSherman/236502/tree/master/best_results/gan_2.mp3)
-- [sample 3](https://github.com/LiorSherman/236502/tree/master/best_results/gan_3.mp3)
+- [sample 1](https://github.com/Exital/GeneratingMelodies/tree/master/best_results/gan_1.mp3)
+- [sample 2](https://github.com/Exital/GeneratingMelodies/tree/master/best_results/gan_2.mp3)
+- [sample 3](https://github.com/Exital/GeneratingMelodies/tree/master/best_results/gan_3.mp3)
 
 
 ## Prerequisites
